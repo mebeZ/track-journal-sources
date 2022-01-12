@@ -1,0 +1,59 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+nav .spec-logo {
+    width: 300px;
+    height: auto;
+}
+
+.source-input {
+    padding: 40px 0px;
+    background: #60B3FB;
+    color: white;
+    height: 20%;
+}
+
+.source-input form {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+button {
+    color: black;
+    padding: 10px 5px; 
+}
+
+.source-entry button{
+    background: red;
+}
+
+.source-input button{
+    background: green;
+}
+
+.source-entry {
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
